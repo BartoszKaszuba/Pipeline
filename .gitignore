@@ -1,0 +1,4 @@
+documentationpipeline
+secrets.env
+output.json
+__pycache__
